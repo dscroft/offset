@@ -1,5 +1,5 @@
-#ifndef ROW_H
-#define ROW_H
+#ifndef OFFSETSTORE_H
+#define OFFSETSTORE_H
 
 #include <vector>
 #include <algorithm>
